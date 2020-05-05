@@ -4,4 +4,8 @@
   border-style:dotted;
   text-align:center;
   margin:20px;
+  padding:50px;
  }
+body{
+ background-image:url("image1.jpg");
+}
